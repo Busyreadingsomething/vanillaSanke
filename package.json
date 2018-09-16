@@ -1,0 +1,22 @@
+{
+  "name": "vanillasanke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Busyreadingsomething/vanillaSanke.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Busyreadingsomething/vanillaSanke/issues"
+  },
+  "homepage": "https://github.com/Busyreadingsomething/vanillaSanke#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
